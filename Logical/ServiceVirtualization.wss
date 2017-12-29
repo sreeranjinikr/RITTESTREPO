@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><editableResource createdTimestamp="1514510212944" createdUser="Riyan" id="2e126d3b:1609fd7870b:-7f3d" selfDescribing="ServiceVirtualization" type="wsdl_schema" updatedTimestamp="1514510212944" updatedUser="Riyan" version="1.0">
+   <loggingConfiguration debug="false" writeStubEventsToDB="false"/>
+   <resourceConfig schemaSourceTemplateName="WSDL">
+      <schemaSourceConfig sourceType="101" uri="C:\Users\Riyan\Downloads\ServiceVirtualization.wsdl"/>
+   </resourceConfig>
+</editableResource>

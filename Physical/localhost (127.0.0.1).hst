@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><editableResource createdTimestamp="1514510215110" createdUser="Riyan" id="2e126d3b:1609fd7870b:-7ef7" selfDescribing="localhost (127.0.0.1)" type="host_machine_resource" updatedTimestamp="1514510215110" updatedUser="Riyan" version="1.0">
+   <loggingConfiguration debug="false" writeStubEventsToDB="false"/>
+   <resourceConfig host_address="127.0.0.1" user_host_name="localhost"/>
+</editableResource>

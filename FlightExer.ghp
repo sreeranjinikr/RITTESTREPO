@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><_c buildID="I20171213_1052" certificateAuthority="KEY_1024_BITS" comments="Project created on December 29, 2017" creationVersion="9.1.1" domain="domain1" extDocPrefix="" name="FlightExer" nff="true" owner="Riyan" rulesCacheUri="%%PROJECT/ROOT%%Rules" uuid="00000160-9fd7-864a-0000-00e1a3170b03">
+  <dateTimeConfig date="yyyy/MM/dd" dateTime="dd-MMM-yyyy HH:mm:ss" time="HH:mm:ss.SSS"/>
+   <serverSettings ghRepositoryURL="https://localhost:5443/RTCP" trustSource="INBUILT_CA" trustStorePath="">
+      <dbConnectionParameters maxConnections="5" poolName="DefaultPoolName">
+         <connectionParams CICSEnv="false" MVSEnv="false" ZOSEnv="false" driverClass="" password="#com.ghc.1!280f" recordFilters="" schema="" url="" user="">
+            <stubSettings maxProcCallCount="10000" maxResultSetRowCount="10000" maxRowCount="10000" password="#com.ghc.1!272b" procedureLearningBehaviour="1" schema="" url="" useIntegratedDB="true" user=""/>
+            <storedProcedureFilter catalogFilterEnabled="false" catalogFilterPattern="" procedureFilterEnabled="false" procedureFilterPattern="" schemaFilterEnabled="true" schemaFilterPattern="" storedProceduresRetrievalEnabled="false" useConnectionUsername="true"/>
+            <timestampFormatting timestampFormatZero="false" timestampFormattingEnabled="false" timestampPrecision="9"/>
+         </connectionParams>
+      </dbConnectionParameters>
+   </serverSettings>
+   <permissionsSettings autoLogin="true" host="LAPTOP-T07SS2I0" permFactId="ldap.permissions.factory.none" port="389" pswd="2jmj7l5rSw0yVb/vlWAYkK/YBwk="/>
+</_c>

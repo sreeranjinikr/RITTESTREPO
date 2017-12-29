@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><editableResource createdTimestamp="1514510214523" createdUser="Riyan" id="2e126d3b:1609fd7870b:-7f42:917597712:1544155186" selfDescribing="http localhost:7070 " type="http_transport" updatedTimestamp="1514510214523" updatedUser="Riyan" version="1.0">
+   <syncdetails compare="http localhost:7070 " lastSynced="1514510214523" sourceid="2e126d3b:1609fd7870b:-7f42">
+      <sourcepath path="ServiceVirtualization/ServiceVirtualizationSOAP"/>
+   </syncdetails>
+   <loggingConfiguration debug="false" writeStubEventsToDB="false"/>
+   <resourceConfig transportName="" transportTemplateName="HTTP">
+      <messageProperties ReasonPhrase="No Stub available that matches the request" clientConnectionsPerHost="100" credDomain="" credPassword="#com.ghc.1!2c3d" credType="0" credUser="" httpHost="localhost" httpNtlmDomain="" httpPort="7070" httpProxyHost="" httpProxyPassword="#com.ghc.1!619a" httpProxyPort="" httpProxyUsername="" httpResourceRoot="" httpServerSocketBindAddressOverride="" httpServerSocketPortOverride="" httpSocketTimeout="" httpTimeoutResponseCode="503" httpVirtualHost="" useSsl="false" version="4">
+         <kerberos Anon="false" CStyle="Username / Password" Conf="false" Custom="true" Enabled="false" Integ="false" MutAuth="false" RepDet="false" SSO="false" SeqCheck="false"/>
+      </messageProperties>
+   </resourceConfig>
+</editableResource>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><editableResource createdTimestamp="1514510214538" createdUser="Riyan" id="2e126d3b:1609fd7870b:-7f42:-878443624:408339756" type="infrastructure_component_resource" updatedTimestamp="1514510214538" updatedUser="Riyan" version="1.1">
+   <syncdetails compare="ServiceVirtualization/ServiceVirtualizationSOAP" lastSynced="1514510214538" sourceid="2e126d3b:1609fd7870b:-7f42">
+      <sourcepath path="ServiceVirtualization/ServiceVirtualizationSOAP"/>
+   </syncdetails>
+   <loggingConfiguration debug="false" writeStubEventsToDB="false"/>
+   <resourceConfig infrastructureType="http_transport">
+      <recordingSettings colour="90,170,250"/>
+   </resourceConfig>
+</editableResource>

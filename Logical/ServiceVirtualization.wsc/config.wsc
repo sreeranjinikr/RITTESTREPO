@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><editableResource createdTimestamp="1514510212960" createdUser="Riyan" id="2e126d3b:1609fd7870b:-7f42" selfDescribing="ServiceVirtualization" syncSourceDetails="2e126d3b:1609fd7870b:-7fa3" type="wsdl_service_component" updatedTimestamp="1514510212999" updatedUser="Riyan" version="1.0">
+   <loggingConfiguration debug="false" writeStubEventsToDB="false"/>
+   <resourceConfig>
+      <wsdl id="2e126d3b:1609fd7870b:-7f3d" name="ServiceVirtualization"/>
+   </resourceConfig>
+</editableResource>
